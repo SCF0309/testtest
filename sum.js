@@ -1,6 +1,6 @@
 function sum(n) {
     // 回傳 1+2+3+4+...+n 的結果
-    
+    n++;
   }
   
   console.log(sum(1)); // 1
