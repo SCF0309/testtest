@@ -2,7 +2,7 @@ function sum(n) {
     // 回傳 1+2+3+4+...+n 的結果
     let sum=0;
     for(i=0;i<=n;i++){
-        sum+=i
+        sum+=i;
     }
     console.log(sum)
   }
