@@ -4,7 +4,7 @@ function sum(n) {
     for(i=0;i<=n;i++){
         sum+=i;
     }
-    console.log(sum)
+    return sum;
   }
   
   console.log(sum(1)); // 1
